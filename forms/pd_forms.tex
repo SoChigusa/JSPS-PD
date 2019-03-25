@@ -1,0 +1,14 @@
+% pd_forms
+%=======================================
+\ifthenelse{\boolean{BudgetSummary}\OR\boolean{klTypesetPage0}}{
+	\input{forms/coverpage}
+}{}
+
+\KLInputIfPageInRangeIsSelected{1}{2}{forms/pd_form_03-04}
+\KLInputIfPageInRangeIsSelected{3}{5}{forms/pd_form_05-07}
+\KLInputIfSelected{6}{forms/pd_form_08}
+\KLInputIfSelected{7}{forms/pd_form_09}
+\KLInputIfPageInRangeIsSelected{8}{9}{forms/pd_form_10-11}
+
+%========================================
+
