@@ -1,0 +1,136 @@
+otf-cjgb-h    Identity-H                      mplus-2p-bold.ttf/AJ16
+otf-cjgb-v    Identity-V                      mplus-2p-bold.ttf/AJ16
+otf-ujgb-h    UniJIS-UTF16-H                  mplus-2p-bold.ttf
+otf-ujgb-v    UniJIS-UTF16-V                  mplus-2p-bold.ttf
+hgothb-h      H                               mplus-2p-bold.ttf
+hgothb-v      V                               mplus-2p-bold.ttf
+hgotheb-h     H                               mplus-2p-heavy.ttf
+hgotheb-v     V                               mplus-2p-heavy.ttf
+
+% rml           UniJIS-UTF16-H                  ipaexm.ttf
+% rmlv          UniJIS-UTF16-V                  ipaexm.ttf
+% rml           Identity-H                      ipaexm.ttf
+% rmlv          Identity-V                      ipaexm.ttf
+% rml           H                               ipam.ttf
+% rmlv          V                               ipam.ttf
+% unijmin-h     UniJIS-UTF16-H                  ipaexm.ttf
+% unijmin-v     UniJIS-UTF16-V                  ipaexm.ttf
+% cidmin-h      Identity-H                      ipaexm.ttf/AJ16
+% cidmin-v      Identity-V                      ipaexm.ttf/AJ16
+
+% gbm           UniJIS-UTF16-H                  ipaexg.ttf
+% gbmv          UniJIS-UTF16-V                  ipaexg.ttf
+% gbm           Identity-H                      ipaexg.ttf
+% gbmv          Identity-V                      ipaexg.ttf
+% gbm           H                               ipag.ttf
+% gbmv          V                               ipag.ttf
+% unijgoth-h    UniJIS-UTF16-H                  ipaexg.ttf
+% unijgoth-v    UniJIS-UTF16-V                  ipaexg.ttf
+% cidgoth-h     Identity-H                      ipaexg.ttf/AJ16
+% cidgoth-v     Identity-V                      ipaexg.ttf/AJ16
+
+% hmr           H                               ipam.ttf
+% hmrv          V                               ipam.ttf
+
+% hkb           H                               ipag.ttf
+% hkbv          V                               ipag.ttf
+
+% otf-ujmr-h    UniJIS-UTF16-H                  ipaexm.ttf
+% otf-ujmr-v    UniJIS-UTF16-V                  ipaexm.ttf
+% otf-cjmr-h    Identity-H                      ipaexm.ttf/AJ16
+% otf-cjmr-v    Identity-V                      ipaexm.ttf/AJ16
+% hminr-h       H                               ipam.ttf
+% hminr-v       V                               ipam.ttf
+
+% otf-ujgr-h    UniJIS-UTF16-H                  ipaexg.ttf
+% otf-ujgr-v    UniJIS-UTF16-V                  ipaexg.ttf
+% otf-cjgr-h    Identity-H                      ipaexg.ttf/AJ16
+% otf-cjgr-v    Identity-V                      ipaexg.ttf/AJ16
+% hgothr-h      H                               ipag.ttf
+% hgothr-v      V                               ipag.ttf
+
+% otf-ujmb-h    UniJIS-UTF16-H                  :1:mogamb.ttc
+% otf-ujmb-v    UniJIS-UTF16-V                  :1:mogamb.ttc
+% % otf-cjmb-h    Identity-H                      :1:mogamb.ttc/AJ16
+% % otf-cjmb-v    Identity-V                      :1:mogamb.ttc/AJ16
+% % hminb-h       H                               :1:mogamb.ttc
+% % hminb-v       V                               :1:mogamb.ttc
+
+% % otf-cjgb-h    Identity-H                      migmix-2p-bold.ttf/AJ16
+% % otf-cjgb-v    Identity-V                      migmix-2p-bold.ttf/AJ16
+% otf-ujgb-h    UniJIS-UTF16-H                  GenShinGothic-Bold.ttf
+% otf-ujgb-v    UniJIS-UTF16-V                  GenShinGothic-Bold.ttf
+% hgothb-h      H                               GenShinGothic-Bold.ttf
+% hgothb-v      V                               GenShinGothic-Bold.ttf
+
+% otf-ujmgr-h   UniJIS-UTF16-H                  migmix-1m-regular.ttf
+% otf-ujmgr-v   UniJIS-UTF16-V                  migmix-1m-regular.ttf
+% otf-cjmgr-h   Identity-H                      migmix-1m-regular.ttf/AJ16
+% otf-cjmgr-v   Identity-V                      migmix-1m-regular.ttf/AJ16
+% hmgothr-h     H                               migmix-1m-regular.ttf
+% hmgothr-v     V                               migmix-1m-regular.ttf
+
+% hgotheb-h     H                               GenShinGothic-Heavy.ttf
+% hgotheb-v     V                               GenShinGothic-Heavy.ttf
+
+% hminl-h       H                               cyberbit.ttf
+% hminl-v       V                               cyberbit.ttf
+% otf-ujml-h    UniJIS-UTF16-H                  cyberbit.ttf
+% otf-ujml-v    UniJIS-UTF16-V                  cyberbit.ttf
+% otf-cjml-h    Identity-H                      cyberbit.ttf/AJ16
+% otf-cjml-v    Identity-V                      cyberbit.ttf/AJ16
+
+% hiramin-w3-h  Identity-H                      ipaexm.ttf/AJ16
+% hiramin-w6-h  Identity-H                      :1:mogamb.ttc/AJ16
+% hirakaku-w3-h Identity-H                      ipaexg.ttf/AJ16
+% hirakaku-w6-h Identity-H                      migmix-2p-bold.ttf/AJ16
+% hiramaru-w4-h Identity-H                      migmix-1m-regular.ttf/AJ16
+% hiramin-w3-v  Identity-V                      ipaexm.ttf/AJ16
+% hiramin-w6-v  Identity-V                      :1:mogamb.ttc/AJ16
+% hirakaku-w3-v Identity-V                      ipaexg.ttf/AJ16
+% hirakaku-w6-v Identity-V                      migmix-2p-bold.ttf/AJ16
+% hiramaru-w4-v Identity-V                      migmix-1m-regular.ttf/AJ16
+
+% ipamjm-mzm-h  Identity-H                      ipamjm.ttf/AJ16
+% ipamjm-mzm-v  Identity-V                      ipamjm.ttf/AJ16
+
+% %%%%%%%%--------------------------
+% %%%%%%%% upTeX  by TANAKA, Takuji
+% %%%%%%%%--------------------------
+
+% %% 'upjis' Series
+
+% % Mincho
+% uprml-h       UniJIS-UTF16-H                  ipaexm.ttf
+% uprml-v       UniJIS-UTF16-V                  ipaexm.ttf
+% uprml-hq     UniJIS-UCS2-H                   ipaexm.ttf
+% % Gothic
+% upgbm-h      UniJIS-UTF16-H                  ipaexg.ttf
+% upgbm-v      UniJIS-UTF16-V                  ipaexg.ttf
+% upgbm-hq    UniJIS-UCS2-H                   ipaexg.ttf
+
+% %% 'ujis' Series
+
+% % Mincho
+% urml        UniJIS-UTF16-H                  ipaexm.ttf
+% urmlv       UniJIS-UTF16-V                  ipaexm.ttf
+% % Gothic
+% ugbm       UniJIS-UTF16-H                  ipaexg.ttf
+% ugbmv      UniJIS-UTF16-V                  ipaexg.ttf
+
+% %% Addition for otf package
+
+% % uphminr-h           UniJIS-UTF16-H      ipam.ttf
+% % uphminr-v           UniJIS-UTF16-V      ipam.ttf
+% % uphgothr-h          UniJIS-UTF16-H      ipag.ttf
+% % uphgothr-v          UniJIS-UTF16-V      ipag.ttf
+% % uphminb-h           UniJIS-UTF16-H      :1:mogamb.ttc
+% % uphminb-v           UniJIS-UTF16-V      :1:mogamb.ttc
+% % uphgothb-h          UniJIS-UTF16-H      migmix-2p-bold.ttf
+% % uphgothb-v          UniJIS-UTF16-V      migmix-2p-bold.ttf
+% % uphgotheb-h         UniJIS-UTF16-H      MigMix-2P-ExtraBold.ttf
+% % uphgotheb-v         UniJIS-UTF16-V      MigMix-2P-ExtraBold.ttf
+% % uphmgothr-h         UniJIS-UTF16-H      migmix-1m-regular.ttf
+% % uphmgothr-v         UniJIS-UTF16-V      migmix-1m-regular.ttf
+% % uphminl-h           UniJIS-UTF16-H      cyberbit.ttf
+% % uphminl-v           UniJIS-UTF16-V      cyberbit.ttf
