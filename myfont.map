@@ -1,11 +1,11 @@
 otf-cjgb-h    Identity-H                      mplus-2p-bold.ttf/AJ16
 otf-cjgb-v    Identity-V                      mplus-2p-bold.ttf/AJ16
-otf-ujgb-h    UniJIS-UTF16-H                  mplus-2p-bold.ttf
-otf-ujgb-v    UniJIS-UTF16-V                  mplus-2p-bold.ttf
+% otf-ujgb-h    UniJIS-UTF16-H                  mplus-2p-bold.ttf
+% otf-ujgb-v    UniJIS-UTF16-V                  mplus-2p-bold.ttf
 hgothb-h      H                               mplus-2p-bold.ttf
 hgothb-v      V                               mplus-2p-bold.ttf
-hgotheb-h     H                               mplus-2p-heavy.ttf
-hgotheb-v     V                               mplus-2p-heavy.ttf
+% hgotheb-h     H                               mplus-2p-heavy.ttf
+% hgotheb-v     V                               mplus-2p-heavy.ttf
 
 % rml           UniJIS-UTF16-H                  ipaexm.ttf
 % rmlv          UniJIS-UTF16-V                  ipaexm.ttf
